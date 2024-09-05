@@ -1,4 +1,4 @@
-Write-Output "Activating virtual environment..."
+Write-Output "Activating virtual environment"
 .\.venv\Scripts\Activate.ps1
 
 Write-Output "Environment activated."
