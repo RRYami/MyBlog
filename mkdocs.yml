@@ -7,6 +7,7 @@ nav:
     - Documentations/QuantitativeFinance/portfolio_optimization.md
   - Data Engineering:
     - Documentations/DataEngineering/sql.md
+    - Documentations/DataEngineering/linux.md
   - C ++:
     - Documentations/Programming/cpp.md
 
